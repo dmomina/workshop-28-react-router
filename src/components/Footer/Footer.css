@@ -1,0 +1,19 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 10px 0;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  footer a {
+    margin: 0 10px; /* This adds space between each link */
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
